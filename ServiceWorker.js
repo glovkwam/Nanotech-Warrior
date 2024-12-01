@@ -1,9 +1,9 @@
 const cacheName = "DefaultCompany-BFA Final-4.0.3";
 const contentToCache = [
-    "Build/Nanotech-Warrior.loader.js",
-    "Build/Nanotech-Warrior.framework.js",
-    "Build/Nanotech-Warrior.data",
-    "Build/Nanotech-Warrior.wasm",
+    "Build/untitled folder 2.loader.js",
+    "Build/untitled folder 2.framework.js",
+    "Build/untitled folder 2.data",
+    "Build/untitled folder 2.wasm",
     "TemplateData/style.css"
 
 ];
